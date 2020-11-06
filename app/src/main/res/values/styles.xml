@@ -25,4 +25,8 @@
         <item name="android:background">@drawable/round_button</item>
     </style>
 
+    <style name="EditTextRedondo" parent="Widget.AppCompat.EditText">
+        <item name="android:background">@drawable/edit_text</item>
+    </style>
+
 </resources>
